@@ -22,4 +22,4 @@ data_load_state=st.text("Loading Data...Done!")
 
 
 st.subheader("Raw Data")
-st.write("data")
+st.write(data)
